@@ -1,0 +1,11 @@
+.vscode/
+.output/
+*.out
+*.exe
+*.o
+*.obj
+*.dll
+*.log
+
+.DS_Store
+Thumbs.db
